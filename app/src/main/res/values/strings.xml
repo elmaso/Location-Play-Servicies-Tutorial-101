@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Location101</string>
     <string name="action_settings">Settings</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="latitude_text">Latitude goes here</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="longitude_text">Longitude goes here</string>
+
 </resources>
